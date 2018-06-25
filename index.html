@@ -14,10 +14,26 @@
     {
       max-width: 100%;
       vertical-align:  top;
+
     }
+
+    img #responsive
+    {
+      display: none;
+    }
+
+    @media screenand(max-width 1024px)
+    {
+      img #responsive{
+        display:block;
+        
+      }
+    }
+
   </style>
 </head>
 <body>
+  <img src="invieR.png" alt="" id="responsive">
   <img src="header.jpg" alt="">
   <img src="hero.jpg" alt="">
 
