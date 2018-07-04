@@ -1,4 +1,4 @@
-##¿En que version orcurre ?
+## ¿En que version orcurre ?
 Ocurre el la version 60 de chrome
-##¿Cual es el error?
+## ¿Cual es el error?
 Las imagenes estan sobrepuestas
